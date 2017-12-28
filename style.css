@@ -1,0 +1,12 @@
+body{
+  background-color: #111;
+}
+
+#box{
+  background-color: pink;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+
+  border-radius: 50%;
+}
